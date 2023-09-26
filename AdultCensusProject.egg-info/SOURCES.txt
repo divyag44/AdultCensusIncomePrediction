@@ -1,0 +1,7 @@
+setup.py
+AdultCensusProject.egg-info/PKG-INFO
+AdultCensusProject.egg-info/SOURCES.txt
+AdultCensusProject.egg-info/dependency_links.txt
+AdultCensusProject.egg-info/requires.txt
+AdultCensusProject.egg-info/top_level.txt
+src/__init__.py
